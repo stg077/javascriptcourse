@@ -16,3 +16,8 @@ function checkCountValue(){
         
     }
 }
+function resetCount(){
+    count=0;
+    displayCount();
+    alert("se restablecio el conteo de seguidores")
+}
